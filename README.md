@@ -8,6 +8,10 @@
 - Install [nvm](https://github.com/creationix/nvm)
 - Install [yarn](https://yarnpkg.com/en/docs/install)
 
+# Installation
+
+- Install dependencies using the package manager: `yarn`
+
 # Tests
 
 - We are using the [jest](https://facebook.github.io/jest/) testing framework. Look through the [documentation](https://facebook.github.io/jest/docs/getting-started.html) to get a sense of how to write unit tests.
